@@ -1,4 +1,4 @@
-# Meu Site Principal. https://egirltrans.vercel.app
+# Meu Site Principal. https://saytrans.vercel.app
 # <3
 # Código Aberto + LocalHost Abrir o index.html
-# Redes Sociais: https://saytrans.vercel.app
+# Redes Sociais: https://ayo.so/girltrans
